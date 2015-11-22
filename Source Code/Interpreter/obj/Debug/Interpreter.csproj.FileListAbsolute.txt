@@ -1,0 +1,16 @@
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Interpreter\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Interpreter\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.Form1.resources
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.Properties.Resources.resources
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.csproj.GenerateResource.Cache
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.exe
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.pdb
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Interpreter\Interpreter\bin\Debug\FastColoredTextBox.dll
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.Interpreters.BatchCSharp.resources
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.Interpreters.Batch.resources
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.Interpreters.Base.resources
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Interpreter\Interpreter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Interpreter\Interpreter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rosha\Documents\Visual Studio 2012\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.Interpreters.CSharp.resources
